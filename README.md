@@ -1,10 +1,10 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mayan Rhys Sequeira
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mayan Sequeira
 ============================================================================================================================================
 
 ML Engineer and Ops
 -------------------
 
-I've been learning to code for a while now and i find AI ML to be really interesting, hence diving into python was my first step. Can't stop making projects with it where there's a lot to learn from and collaborate with.
+I've been learning to code for a while now and i find AI/ML to be really interesting, hence diving into python was my first step. Can't stop making projects with it where there's a lot to learn from and collaborate with.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [mayan.sequeira@gmail.com](mailto:mayan.sequeira@gmail.com)

@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ML Engineer and Ops
 -------------------
 
-I've been learning to code for a while now and i find AI/ML to be really interesting, hence diving into python was my first step. Can't stop making projects with it where there's a lot to learn from and collaborate with.
+Started with Python for AI/ML, stayed for the ops challenges. There's something satisfying about building systems that learn AND systems that don't fall over when they do. Always down to collaborate on projects where models meet production.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [mayan.sequeira@gmail.com](mailto:mayan.sequeira@gmail.com)
